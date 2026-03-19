@@ -51,10 +51,10 @@ One of the core objectives of this project was to ensure data consistency. I val
 ---
 
 ## 📁 Repository Structure
-* `data/`: Contains the (anonymized) raw and cleaned CSV files.
-* `notebooks/`: Jupyter Notebook for EDA and cleaning.
-* `sql_queries/`: The `.sql` script.
-* `dashboard/`: The `.pbix` Power BI file.
+* `Data/`: Contains the (anonymized) raw and cleaned CSV files.
+* `Python`: Jupyter Notebook for EDA and cleaning.
+* `SQL/`: The `.sql` script.
+* `PowerBI files/`: The `.pbix` Power BI file.
 
 ---
 
